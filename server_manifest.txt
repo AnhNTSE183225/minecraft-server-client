@@ -1,0 +1,48 @@
+--- mods ---
+927b2136 | AmbientSounds_FABRIC_v6.3.4_mc1.21.11.jar
+0f6b3fbe | BiomesOPlenty-fabric-1.21.11-21.11.0.28.jar
+718b4c4c | CreativeCore_FABRIC_v2.14.9_mc1.21.11.jar
+ec35139d | GlitchCore-fabric-1.21.11-21.11.0.2.jar
+bc846a00 | Gravestone-Fabric-1.21.11.jar
+305a9f5a | PresenceFootsteps-1.12.3+1.21.11.jar
+d80caa43 | RoughlyEnoughItems-21.11.814-fabric.jar
+d7638eb6 | TerraBlender-fabric-1.21.11-21.11.0.0.jar
+e725606e | appleskin-fabric-mc1.21.11-3.0.8.jar
+3dc41c45 | balm-fabric-1.21.11-21.11.6.jar
+f26b3a1e | betterhandbobbing-1.20-1.8.2.jar
+9de77088 | cloth-config-21.11.153-fabric.jar
+d0011d54 | continuity-3.0.1-beta.1+1.21.11.jar
+db7feaae | cullleaves-fabric-4.1.1.1+1.21.11.jar
+3a20438f | dungeons-and-taverns-v5.1.0.jar
+696ed485 | enchdesc-fabric-1.21.11-21.11.1.jar
+06bc0954 | entity_model_features_1.21.11-fabric-3.0.11.jar
+959b8765 | entity_texture_features_1.21.11-fabric-7.0.8.jar
+f7e723a1 | fabric-api-0.141.3+1.21.11.jar
+5a82c29f | fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar
+f60fcec1 | fallingleaves-2.0.3+1.21.11.jar
+3b5c6f5f | ferritecore-8.2.0-fabric.jar
+ab58b269 | fwa+1.21.11-1.0.2.jar
+029f544f | iris-fabric-1.10.5+mc1.21.11.jar
+f804ed48 | krypton-0.2.10.jar
+35d4fa10 | lambdynamiclights-4.9.1+1.21.11.jar
+876eca2e | modmenu-17.0.0-beta.2.jar
+c4dcd981 | more_food-fabric-3.0.0-beta.2+1.21.11.jar
+6fd201bc | notenoughanimations-fabric-1.11.2-mc1.21.11.jar
+8f3f022f | optigui-2.3.0-beta.9+1.21.9.jar
+347805fd | prickle-fabric-1.21.11-21.11.1.jar
+173a0f55 | punchy-2.3-fabric-1.21.11.jar
+5742ced8 | regs-more-foods-1.3.0b+1.21.11+mod.jar
+ce9d11e1 | skyboxify-2.3+1.21.11-fabric.jar
+96d66652 | sodium-fabric-0.8.4+mc1.21.11.jar
+25f7f6aa | sound-physics-remastered-fabric-1.21.11-1.5.1.jar
+7023c827 | swinginglanterns-1.21.11-1.4.0.jar
+
+--- resourcepacks ---
+16029590 | Better-Leaves-9.5.zip
+718172d5 | Default HD 128x Demo 1.8.2.2.zip
+ddfa51fc | Dramatic Skys Demo 1.5.3.36.2.zip
+6e7107d6 | EvenBetterEnchants_v3_1.21.5+.zip
+3758ce14 | FA+All_Extensions-v1.7.zip
+e4ae92af | FreshAnimations_v1.10.3.zip
+820a99ff | Recolourful Containers 3.1 (1.19.4+).zip
+c73006a0 | Round-Trees-8.1.zip

@@ -1,0 +1,4 @@
+Code snippet
+# Ignore all jar and zip files
+*.jar
+*.zip
