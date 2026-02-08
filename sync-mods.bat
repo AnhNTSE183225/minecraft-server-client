@@ -98,7 +98,7 @@ echo.
 echo Updating resource pack load order...
 if exist "%OPTIONS_FILE%" (
     REM Using PowerShell to safely replace the line because it handles special characters better than Batch
-    powershell -Command "(Get-Content '%OPTIONS_FILE%') -replace '^resourcePacks:.*', 'resourcePacks:[\"vanilla\",\"file/FreshAnimations_v1.10.3.zip\",\"file/Default HD 128x Demo 1.8.2.2.zip\",\"file/Recolourful Containers 3.1 (1.19.4+).zip\",\"file/Round-Trees-8.1.zip\",\"file/FA+All_Extensions-v1.7.zip\",\"file/Dramatic Skys Demo 1.5.3.36.2.zip\",\"file/EvenBetterEnchants_v3_1.21.5+.zip\",\"cullleaves:smartleaves\",\"file/Better-Leaves-9.5.zip\"]' | Set-Content '%OPTIONS_FILE%'"
+    powershell -Command "(Get-Content '%OPTIONS_FILE%') -replace '^resourcePacks:.*', 'resourcePacks:[\"vanilla\",\"file/FreshAnimations_v1.10.3.zip\",\"file/Default HD 128x Demo 1.8.2.2.zip\",\"file/Recolourful Containers 3.1 ^(1.19.4+^).zip\",\"file/Round-Trees-8.1.zip\",\"file/FA+All_Extensions-v1.7.zip\",\"file/Dramatic Skys Demo 1.5.3.36.2.zip\",\"file/EvenBetterEnchants_v3_1.21.5+.zip\",\"cullleaves:smartleaves\",\"file/Better-Leaves-9.5.zip\"]' | Set-Content '%OPTIONS_FILE%'"
     
     echo Load order updated in options.txt.
 ) else (
